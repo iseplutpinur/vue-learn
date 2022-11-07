@@ -1,3 +1,3 @@
 Learn Vue Based On: [https://roadmap.sh/vue](https://roadmap.sh/vue).
 
-![Vue Roadmap](/vue-roadmap.pdf "Vue Roadmap")
+![Vue Roadmap](/vue_page-0001.jpg "Vue Roadmap")
